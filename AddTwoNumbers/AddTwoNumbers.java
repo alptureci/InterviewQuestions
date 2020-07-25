@@ -1,4 +1,4 @@
-package Java_InterviewQuestions.AddTwoNumbers;
+package AddTwoNumbers;
 
 /******************************************************************************
 
