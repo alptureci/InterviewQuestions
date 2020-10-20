@@ -1,4 +1,4 @@
-package edu.itu.swe680.lander_95583;
+package LunarLander.src.edu.itu.swe680.lander_95583;
 
 import java.io.BufferedReader;
 import java.io.IOException;
